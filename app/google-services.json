@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "371175533190",
+    "firebase_url": "https://grocers-alpha.firebaseio.com",
+    "project_id": "grocers-alpha",
+    "storage_bucket": "grocers-alpha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371175533190:android:144de79cd08d7026403f07",
+        "android_client_info": {
+          "package_name": "com.icarus.groc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371175533190-mqieasl06h81cr6tblb7qn7ul9hf4hbl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.icarus.groc",
+            "certificate_hash": "0a2ddd13a251ae9fcb1c3d26aa2b063d98e7d26a"
+          }
+        },
+        {
+          "client_id": "371175533190-3u4kpplgjrp5bu0ml37c6shjle50isad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9rJcA3nCgkzClIczfsfzKM9DiIZP11Lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371175533190-3u4kpplgjrp5bu0ml37c6shjle50isad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
